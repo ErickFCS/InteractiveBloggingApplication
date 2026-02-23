@@ -1,10 +1,10 @@
-# Mini Blog List App
+# Interactive Blogging Application
 
 <p align="center">
   <img src="/overview.png" alt="Awesome Image" width="600">
 </p>
 
-This project is a mini web application built with React, Vite, and Bootstrap. It allows users share and rate blogs.
+This project is a web application built with React, Vite, and Bootstrap. It allows users share and rate blogs.
 
 ## Technologies Used
 
@@ -33,8 +33,8 @@ This project is a mini web application built with React, Vite, and Bootstrap. It
   <img src="/overview_v.png" alt="Awesome Image" width="600">
 </p>
 
-- [  Redux FrontEnd](https://minibloglistapp.onrender.com "Using reduxjs/toolkit")
-- [  Query FrontEnd](https://minibloglistappquery.onrender.com "Using the react query lib and some contexts")
+- [Redux FrontEnd](https://minibloglistapp.onrender.com "Using reduxjs/toolkit")
+- [Query FrontEnd](https://minibloglistappquery.onrender.com "Using the react query lib and some contexts")
 
 ## Getting Started
 
